@@ -6,6 +6,7 @@ The page can be found at [https://haddersbadders.github.io/basic-web-design/](ht
 
 ## The header
 
+![header](https://haddersbadders.github.io/basic-web-design//images/header.png)
 ```
 <header>
   <h1>JUS News</h1>
