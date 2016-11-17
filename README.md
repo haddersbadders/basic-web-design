@@ -4,11 +4,4 @@ I'll go through this basic design step-by-step and explain how each style has be
 
 The page can be found at [https://haddersbadders.github.io/basic-web-design/](https://haddersbadders.github.io/basic-web-design/)
 
-## The header
-
-![header](https://haddersbadders.github.io/basic-web-design//images/header.png)
-```
-<header>
-  <h1>JUS News</h1>
- </header>
- ```
+There's an interactive page that explains the neccessary CSS for this page [https://haddersbadders.github.io/basic-web-design-tour/](https://haddersbadders.github.io/basic-web-design-tour/) 
